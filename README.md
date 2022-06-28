@@ -8,5 +8,6 @@ Purpose: Part of Mizzou's IT4320 Software Engineering Class as a way to explore 
 4. gitItPretty - make the code readable with some comments and add some features to make it a little more usable like making it an object method. 
 
 This is my submittion for the assignment. 
+
 Trevor Gentry
 Pawprint: TPGZ85
